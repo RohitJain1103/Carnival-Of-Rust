@@ -2,7 +2,7 @@
  
  The Carnival consists of 3 Mini-Games: Plinko, Wheel of Fortune, and Coin Toss. With each game, you earn points. When you earn 2000 points, you will receive a virtual classic Carnival prize which is a teddy bear!
 
-<img src="https://lh3.googleusercontent.com/CEatiFeFgBW3UqlH6SyISQc-j397RspEoS3oGGdf3vn5TidzGS9Op9f1vAoaR1m-1YtoXrURDiEvWa07Loc=s0" width="50%"/>
+![carnival1](https://user-images.githubusercontent.com/22399995/35500640-26762f0c-04fd-11e8-9106-4be3b45faec3.PNG)
 
 ## Versions
 - [Unity Patch 2017.2.0f3](https://unity3d.com/unity/qa/patch-releases?version=2017.2)
